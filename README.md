@@ -1,2 +1,4 @@
 # TIPE-2020
-algorithme de detection
+
+## Machine learning based hornet recognition system
+
